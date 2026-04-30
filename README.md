@@ -1,6 +1,6 @@
 # Worksample SetUp — Service Centers ETL & Análisis con IA
  
-Notebook de Google Colab que automatiza el seguimiento de aperturas de Service Centers en tres entregables: consolidación y transformación de datos con exportación a Excel, tablero interactivo en Looker Studio, y módulo de detección de riesgos operativos usando GPT-4o.
+Notebook de Google Colab que automatiza el seguimiento de aperturas de Service Centers en tres entregables: consolidación y transformación de datos con exportación a Excel, tablero interactivo en Looker Studio, y módulo de detección de riesgos operativos usando GPT-4.0.
  
 ---
  
