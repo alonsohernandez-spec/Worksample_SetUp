@@ -10,7 +10,7 @@ Notebook de Google Colab que automatiza el seguimiento de aperturas de Service C
 |---|---|---|
 | 1 | Consolidación de datos con Python + exportación Excel | `Service_Centers_ETL.xlsx` en Google Drive |
 | 2 | Tablero interactivo en Looker Studio | [Ver tablero](https://datastudio.google.com/u/0/reporting/2a866f6b-e9c8-42d4-bd43-63c66c0ebd59/page/FkmwF) |
-| 3 | Módulo de IA para detección de riesgos operativos | Análisis generado por GPT-4o |
+| 3 | Módulo de IA para detección de riesgos operativos | Análisis generado por GPT-4.0 |
  
 ---
  
@@ -90,7 +90,7 @@ Visualización interactiva del estado de los Service Centers disponible en:
  
 ## Entregable 3 — Módulo de IA para Detección de Riesgos
  
-Envía `df_resumen` en formato JSON a GPT-4o con el siguiente prompt:
+Envía `df_resumen` en formato JSON a GPT-4.0 con el siguiente prompt:
  
 > *"Eres analista de operaciones logísticas. Analiza el siguiente reporte de aperturas de Service Centers y genera: 1. Un párrafo de resumen ejecutivo (máximo 80 palabras). 2. Los 3 principales riesgos operativos esta semana. 3. Una acción recomendada por cada riesgo."*
  
